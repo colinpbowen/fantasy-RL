@@ -43,9 +43,9 @@ Ashley,Young,3,Ashley_Young
 Asmir,Begovic,1,Asmir_Begovic
 Bacary,Sagna,2,Bacary_Sagna
 Bakary,Sako,3,Bakary_Sako
-Bamidele,Alli,3,Bamidele_Alli
+Bamidele,Alli,3,Dele_Alli
 Benik,Afobe,4,Benik_Afobe
-Benjamin,Chilwell,2,Benjamin_Chilwell
+Benjamin,Chilwell,2,Ben_Chilwell
 Ben,Davies,2,Ben_Davies
 Ben,Foster,1,Ben_Foster
 Ben,Gibson,2,Ben_Gibson
@@ -129,7 +129,7 @@ Fabio,Borini,4,Fabio_Borini
 Federico,Fernández,2,Federico_Fernández
 Fernando Francisco,Reges,3,Fernando Francisco_Reges
 Fernando,Llorente,4,Fernando_Llorente
-Fernando,Luiz Rosa,3,Fernando_Luiz Rosa
+Fernando,Luiz Rosa,3,Fernandinho
 Fraizer,Campbell,4,Fraizer_Campbell
 Francis,Coquelin,3,Francis_Coquelin
 Fraser,Forster,1,Fraser_Forster
@@ -165,7 +165,7 @@ Håvard,Nordtveit,3,Håvard_Nordtveit
 Héctor,Bellerín,2,Héctor_Bellerín
 Ibrahim,Afellay,3,Ibrahim_Afellay
 Idrissa,Gueye,3,Idrissa_Gueye
-Ilkay,Gündogan,3,Ilkay_Gündogan
+Ilkay,Gündogan,3,Ilkay_Gundogan
 Isaac,Success,3,Isaac_Success
 Jack,Butland,1,Jack_Butland
 Jack,Cork,3,Jack_Cork
@@ -201,7 +201,7 @@ Joel,Robles,1,Joel_Robles
 Joel,Ward,2,Joel_Ward
 Joe,Allen,3,Joe_Allen
 Joe,Ledley,3,Joe_Ledley
-Johann Berg,Gudmundsson,3,Johann Berg_Gudmundsson
+Johann Berg,Gudmundsson,3,Johann_Gudmundsson
 John,O'Shea,2,John_O'Shea
 John,Stones,2,John_Stones
 John,Terry,2,John_Terry
@@ -313,7 +313,7 @@ Nordin,Amrabat,3,Nordin_Amrabat
 Odion,Ighalo,4,Odion_Ighalo
 Ola,Aina,2,Ola_Aina
 Olivier,Giroud,4,Olivier_Giroud
-Oriol,Romeu Vidal,3,Oriol_Romeu Vidal
+Oriol,Romeu Vidal,3,Oriol_Romeu
 Oscar,dos Santos Emboaba Junior,3,Oscar_dos Santos Emboaba Junior
 Oumar,Niasse,4,Oumar_Niasse
 Pablo,Zabaleta,2,Pablo_Zabaleta
@@ -323,10 +323,10 @@ Patrick,van Aanholt,2,Patrick_van Aanholt
 Paul,Pogba,3,Paul_Pogba
 Paul,Robinson,1,Paul_Robinson
 Pedro,Obiang,3,Pedro_Obiang
-Pedro,Rodríguez Ledesma,3,Pedro_Rodríguez Ledesma
+Pedro,Rodríguez Ledesma,3,Pedro_Rodríguez
 Per,Mertesacker,2,Per_Mertesacker
 Peter,Crouch,4,Peter_Crouch
-Petr,Cech,1,Petr_Cech
+Petr,Cech,1,Petr_Čech
 Philippe,Coutinho,3,Philippe_Coutinho
 Phil,Bardsley,2,Phil_Bardsley
 Phil,Jagielka,2,Phil_Jagielka
@@ -337,7 +337,7 @@ Raheem,Sterling,3,Raheem_Sterling
 Ramadan,Sobhi,3,Ramadan_Sobhi
 Ramiro,Funes Mori,2,Ramiro_Funes Mori
 Riyad,Mahrez,3,Riyad_Mahrez
-Robert Kenedy,Nunes do Nascimento,3,Robert Kenedy_Nunes do Nascimento
+Robert Kenedy,Nunes do Nascimento,3,Kenedy
 Roberto,Firmino,3,Roberto_Firmino
 Robert,Huth,2,Robert_Huth
 Robert,Snodgrass,3,Robert_Snodgrass
@@ -407,7 +407,7 @@ Wayne,Routledge,3,Wayne_Routledge
 Wes,Morgan,2,Wes_Morgan
 Wilfried,Bony,4,Wilfried_Bony
 Wilfried,Zaha,3,Wilfried_Zaha
-Willian,Borges Da Silva,3,Willian_Borges Da Silva
+Willian,Borges Da Silva,3,Willian
 Willy,Caballero,1,Willy_Caballero
 Winston,Reid,2,Winston_Reid
 Xherdan,Shaqiri,3,Xherdan_Shaqiri
@@ -437,12 +437,12 @@ Adrian,Mariappa,2,Adrian_Mariappa
 Aleix,García Serrano,3,Aleix_García Serrano
 Alfie,Mawson,2,Alfie_Mawson
 Bruno,Martins Indi,2,Bruno_Martins Indi
-David,Luiz Moreira Marinho,2,David_Luiz Moreira Marinho
+David,Luiz Moreira Marinho,2,David_Luiz
 David,Marshall,1,David_Marshall
 Didier,Ndong,3,Didier_Ndong
 Dieumerci,Mbokani,4,Dieumerci_Mbokani
 Ezekiel,Fryers,2,Ezekiel_Fryers
-Georges-Kévin,Nkoudou,3,Georges-Kévin_Nkoudou
+Georges-Kévin,Nkoudou,3,Georges-Kévin_N'Koudou
 Hal,Robson-Kanu,4,Hal_Robson-Kanu
 Islam,Slimani,4,Islam_Slimani
 Jeff,Hendrick,3,Jeff_Hendrick
@@ -469,7 +469,7 @@ Kevin,Long,2,Kevin_Long
 Dominic,Calvert-Lewin,4,Dominic_Calvert-Lewin
 Ryan,Allsop,1,Ryan_Allsop
 Ben,Woodburn,3,Ben_Woodburn
-Joshua,Sims,3,Joshua_Sims
+Joshua,Sims,3,Josh_Sims
 Matthew,James,3,Matthew_James
 Andrew,Eleftheriou,2,Andrew_Eleftheriou
 Jonjoe,Kenny,2,Jonjoe_Kenny
@@ -478,7 +478,7 @@ Brandon,Mason,2,Brandon_Mason
 Michael,Folivi,4,Michael_Folivi
 Ademola,Lookman,3,Ademola_Lookman
 Evandro,Goebel,3,Evandro_Goebel
-Gabriel Fernando,de Jesus,4,Gabriel Fernando_de Jesus
+Gabriel Fernando,de Jesus,4,Gabriel_Jesus
 Joey,Barton,3,Joey_Barton
 Rudy,Gestede,4,Rudy_Gestede
 Wilfred,Ndidi,3,Wilfred_Ndidi
@@ -522,10 +522,10 @@ Ayoze,Pérez,4,Ayoze_Pérez
 Benjamin,Mendy,2,Benjamin_Mendy
 Ben,Hamer,1,Ben_Hamer
 Beram,Kayal,3,Beram_Kayal
-Bernardo Mota,Veiga de Carvalho e Silva,3,Bernardo Mota_Veiga de Carvalho e Silva
+Bernardo Mota,Veiga de Carvalho e Silva,3,Bernardo_Silva
 Boaz,Myhill,1,Boaz_Myhill
 Brahim,Diaz,3,Brahim_Diaz
-Bruno,Saltor Grau,2,Bruno_Saltor Grau
+Bruno,Saltor Grau,2,Bruno
 Chancel,Mbemba,2,Chancel_Mbemba
 Charlie,Taylor,2,Charlie_Taylor
 Charly,Musonda,3,Charly_Musonda
@@ -536,7 +536,7 @@ Ciaran,Clark,2,Ciaran_Clark
 Collin,Quaner,4,Collin_Quaner
 Connor,Goldson,2,Connor_Goldson
 Dale,Stephens,3,Dale_Stephens
-Danilo Luiz,da Silva,2,Danilo Luiz_da Silva
+Danilo Luiz,da Silva,2,Danilo
 Danny,Ings,4,Danny_Ings
 Danny,Williams,3,Danny_Williams
 David,De Gea,1,David_De Gea
@@ -546,12 +546,12 @@ DeAndre,Yedlin,2,DeAndre_Yedlin
 Dean,Whitehead,3,Dean_Whitehead
 Dominic,Solanke,4,Dominic_Solanke
 Dwight,Gayle,4,Dwight_Gayle
-Ederson,Santana de Moraes,1,Ederson_Santana de Moraes
+Ederson,Santana de Moraes,1,Ederson
 Eliaquim,Mangala,2,Eliaquim_Mangala
 Elias,Kachunga,3,Elias_Kachunga
 Eric Maxim,Choupo-Moting,3,Eric Maxim_Choupo-Moting
 Florian,Lejeune,2,Florian_Lejeune
-Francisco,Femenía Far,2,Francisco_Femenía Far
+Francisco,Femenía Far,2,Kiko_Femenía
 Gaëtan,Bong,2,Gaëtan_Bong
 Glenn,Murray,4,Glenn_Murray
 Isaac,Hayden,3,Isaac_Hayden
@@ -561,15 +561,15 @@ Jairo,Riedewald,2,Jairo_Riedewald
 Jamaal,Lascelles,2,Jamaal_Lascelles
 Jamie,Murphy,3,Jamie_Murphy
 Jan,Bednarek,2,Jan_Bednarek
-Javier,Hernández Balcázar,4,Javier_Hernández Balcázar
+Javier,Hernández Balcázar,4,Javier_Hernández
 Jesús,Gámez Duarte,2,Jesús_Gámez Duarte
 Joe,Hart,1,Joe_Hart
 Joe,Lolley,3,Joe_Lolley
 Jonas,Lössl,1,Jonas_Lössl
 Jonathan,Hogg,3,Jonathan_Hogg
 Jonjo,Shelvey,3,Jonjo_Shelvey
-Jose Luis,Mato Sanmartín,4,Jose Luis_Mato Sanmartín
-Joseph,Gomez,2,Joseph_Gomez
+Jose Luis,Mato Sanmartín,4,Joselu
+Joseph,Gomez,2,Joe_Gomez
 Julian,Speroni,1,Julian_Speroni
 Karl,Darlow,1,Karl_Darlow
 Kasey,Palmer,3,Kasey_Palmer
@@ -601,7 +601,7 @@ Philip,Billing,3,Philip_Billing
 Phil,Foden,3,Phil_Foden
 Rajiv,van La Parra,3,Rajiv_van La Parra
 Reiss,Nelson,3,Reiss_Nelson
-Richarlison,de Andrade,3,Richarlison_de Andrade
+Richarlison,de Andrade,3,Richarlison
 Robert,Elliot,1,Robert_Elliot
 Rolando,Aarons,3,Rolando_Aarons
 Roque,Mesa,3,Roque_Mesa
@@ -610,7 +610,7 @@ Sandro,Ramírez,4,Sandro_Ramírez
 Scott,Malone,2,Scott_Malone
 Sead,Kolasinac,2,Sead_Kolasinac
 Shane,Duffy,2,Shane_Duffy
-Solomon,March,3,Solomon_March
+Solomon,March,3,Solly_March
 Steve,Mounie,4,Steve_Mounie
 Tammy,Abraham,4,Tammy_Abraham
 Tiemoué,Bakayoko,3,Tiemoué_Bakayoko
@@ -629,7 +629,7 @@ André,Carrillo,3,André_Carrillo
 Chris,Wood,4,Chris_Wood
 Davinson,Sánchez,2,Davinson_Sánchez
 Florent,Hadergjonaj,2,Florent_Hadergjonaj
-José Heriberto,Izquierdo Mena,3,José Heriberto_Izquierdo Mena
+José Heriberto,Izquierdo Mena,3,José_Izquierdo
 Oliver,Burke,3,Oliver_Burke
 Wesley,Hoedt,2,Wesley_Hoedt
 Aleksandar,Dragovic,2,Aleksandar_Dragovic
@@ -646,14 +646,14 @@ Oleksandr,Zinchenko,3,Oleksandr_Zinchenko
 Thomas,Edwards,2,Thomas_Edwards
 Ethan,Ampadu,3,Ethan_Ampadu
 Beni,Baningime,3,Beni_Baningime
-Edward,Nketiah,4,Edward_Nketiah
+Edward,Nketiah,4,Eddie_Nketiah
 Paulo,Gazzaniga,1,Paulo_Gazzaniga
 Jack,Simpson,2,Jack_Simpson
 Hamza,Choudhury,3,Hamza_Choudhury
 Aaron,Wan-Bissaka,3,Aaron_Wan-Bissaka
 Callum,Hudson-Odoi,3,Callum_Hudson-Odoi
 Emerson,Hyndman,3,Emerson_Hyndman
-Adrien Sebastian,Perruchet Silva,3,Adrien Sebastian_Perruchet Silva
+Adrien Sebastian,Perruchet Silva,3,Adrien_Silva
 Stephen,Ireland,3,Stephen_Ireland
 Alex,Pritchard,3,Alex_Pritchard
 Cenk,Tosun,4,Cenk_Tosun
@@ -672,16 +672,16 @@ Jürgen,Locadia,4,Jürgen_Locadia
 Reece,Oxford,2,Reece_Oxford
 Alexander,Sørloth,4,Alexander_Sørloth
 Dodi,Lukebakio,3,Dodi_Lukebakio
-Emerson,Palmieri dos Santos,2,Emerson_Palmieri dos Santos
+Emerson,Palmieri dos Santos,2,Emerson_Palmieri
 Jordan,Hugill,4,Jordan_Hugill
-Lucas,Rodrigues Moura da Silva,3,Lucas_Rodrigues Moura da Silva
+Lucas,Rodrigues Moura da Silva,3,Lucas_Moura
 Martin,Dubravka,1,Martin_Dubravka
 Papa Alioune,Ndiaye,3,Papa Alioune_Ndiaye
 Pierre-Emerick,Aubameyang,4,Pierre-Emerick_Aubameyang
 Lukas,Nmecha,4,Lukas_Nmecha
 Patrice,Evra,2,Patrice_Evra
 Tyrese,Campbell,4,Tyrese_Campbell
-Joseph,Willock,3,Joseph_Willock
+Joseph,Willock,3,Joe_Willock
 Lasse,Sorenson,3,Lasse_Sorenson
 Harvey,Barnes,3,Harvey_Barnes
 Dwight,McNeil,4,Dwight_McNeil
@@ -689,28 +689,28 @@ Aboubakar,Kamara,4,Aboubakar_Kamara
 Adama,Diakhaby,3,Adama_Diakhaby
 Adam,Masina,2,Adam_Masina
 Alireza,Jahanbakhsh,3,Alireza_Jahanbakhsh
-Alisson,Ramses Becker,1,Alisson_Ramses Becker
+Alisson,Ramses Becker,1,Alisson
 Andreas,Pereira,3,Andreas_Pereira
 Andriy,Yarmolenko,3,Andriy_Yarmolenko
-André Filipe,Tavares Gomes,3,André Filipe_Tavares Gomes
+André Filipe,Tavares Gomes,3,André_Gomes
 André-Frank,Zambo Anguissa,3,André-Frank_Zambo Anguissa
 André,Schürrle,3,André_Schürrle
 Angus,Gunn,1,Angus_Gunn
 Aron,Gunnarsson,3,Aron_Gunnarsson
-Ashley Darel Jazz,Richards,2,Ashley Darel Jazz_Richards
-Bernardo,Fernandes da Silva Junior,2,Bernardo_Fernandes da Silva Junior
-Bernard,Anício Caldeira Duarte,3,Bernard_Anício Caldeira Duarte
+Ashley Darel Jazz,Richards,2,Jazz_Richards
+Bernardo,Fernandes da Silva Junior,2,Bernardo
+Bernard,Anício Caldeira Duarte,3,Bernard
 Bernd,Leno,1,Bernd_Leno
 Bobby,Reid,4,Bobby_Reid
-Bonatini Lohner Maia,Bonatini,4,Bonatini Lohner Maia_Bonatini
+Bonatini Lohner Maia,Bonatini,4,Léo_Bonatini
 Bruno,Ecuele Manga,2,Bruno_Ecuele Manga
-Çaglar,Söyüncü,2,Çaglar_Söyüncü
+Çaglar,Söyüncü,2,Caglar_Soyuncu
 Callum,Paterson,3,Callum_Paterson
 Carlos,Sánchez,3,Carlos_Sánchez
 Conor,Coady,2,Conor_Coady
 Cyrus,Christie,2,Cyrus_Christie
 Danny,Ward,3,Danny_Ward
-David Junior,Hoilett,3,David Junior_Hoilett
+David Junior,Hoilett,3,Junior_Hoilett
 David,Brooks,3,David_Brooks
 David,Button,1,David_Button
 Denis,Odoi,2,Denis_Odoi
@@ -719,14 +719,14 @@ Diogo,Jota,3,Diogo_Jota
 Domingos,Quina,3,Domingos_Quina
 Erik,Durm,2,Erik_Durm
 Fabian,Schär,2,Fabian_Schär
-Fabio Henrique,Tavares,3,Fabio Henrique_Tavares
+Fabio Henrique,Tavares,3,Fabinho
 Fabián,Balbuena,2,Fabián_Balbuena
-Felipe Anderson,Pereira Gomes,3,Felipe Anderson_Pereira Gomes
+Felipe Anderson,Pereira Gomes,3,Felipe_Anderson
 Florin,Andone,4,Florin_Andone
 Floyd,Ayité,3,Floyd_Ayité
-Frederico,Rodrigues de Paula Santos,3,Frederico_Rodrigues de Paula Santos
+Frederico,Rodrigues de Paula Santos,3,Fred
 Gary,Madine,4,Gary_Madine
-Greg,Cunninghamm,2,Greg_Cunninghamm
+Greg,Cunningham,2,Greg_Cunningham
 Hélder,Costa,3,Hélder_Costa
 Ibrahima,Cissé,3,Ibrahima_Cissé
 Isaac,Mbenza,3,Isaac_Mbenza
@@ -735,18 +735,18 @@ Issa,Diop,2,Issa_Diop
 Ivan,Cavaleiro,3,Ivan_Cavaleiro
 James,Maddison,3,James_Maddison
 Jannik,Vestergaard,2,Jannik_Vestergaard
-Jean Michael,Seri,3,Jean Michael_Seri
+Jean Michael,Seri,3,Jean_Seri
 Jefferson,Lerma,3,Jefferson_Lerma
 Joe,Bennett,2,Joe_Bennett
 Joe,Bryan,2,Joe_Bryan
 Joe,Ralls,3,Joe_Ralls
 John,Ruddy,1,John_Ruddy
 Jon Gorenc,Stankovic,2,Jon Gorenc_Stankovic
-Jonathan,Castro Otto,2,Jonathan_Castro Otto
-Jorge Luiz,Frello Filho,3,Jorge Luiz_Frello Filho
+Jonathan,Castro Otto,2,Jonny_Castro
+Jorge Luiz,Frello Filho,3,Jorginho
 Josh,Murphy,3,Josh_Murphy
-José Diogo,Dalot Teixeira,2,José Diogo_Dalot Teixeira
-João Filipe Iria,Santos Moutinho,3,João Filipe Iria_Santos Moutinho
+José Diogo,Dalot Teixeira,2,Diogo_Dalot
+João Filipe Iria,Santos Moutinho,3,João_Moutinho
 Juninho,Bacuna,3,Juninho_Bacuna
 Kenneth,Zohore,4,Kenneth_Zohore
 Ken,Sema,3,Ken_Sema
@@ -778,11 +778,11 @@ Rachid,Ghezzal,3,Rachid_Ghezzal
 Raúl,Jiménez,4,Raúl_Jiménez
 Ricardo Domingos,Barbosa Pereira,2,Ricardo Domingos_Barbosa Pereira
 Romain,Saïss,2,Romain_Saïss
-Rui Pedro,dos Santos Patrício,1,Rui Pedro_dos Santos Patrício
+Rui Pedro,dos Santos Patrício,1,Rui_Patrício
 Ryan,Bennett,2,Ryan_Bennett
 Ryan,Fredericks,2,Ryan_Fredericks
 Ryan,Sessegnon,3,Ryan_Sessegnon
-Rúben Diogo,da Silva Neves,3,Rúben Diogo_da Silva Neves
+Rúben Diogo,da Silva Neves,3,Rúben_Neves
 Rúben Gonçalo,Silva Nascimento Vinagre,2,Rúben_Vinagre
 Sean,Morrison,2,Sean_Morrison
 Sergio,Rico,1,Sergio_Rico
@@ -808,7 +808,7 @@ Ben,Wilmot,2,Ben_Wilmot
 Juan,Foyth,2,Juan_Foyth
 Yan,Valery,2,Yan_Valery
 Rafael,Camacho,3,Rafael_Camacho
-Alexandre Nascimento,Costa Silva,4,Alexandre Nascimento_Costa Silva
+Alexandre Nascimento,Costa Silva,4,Xande_Silva
 Tyreke,Johnson,3,Tyreke_Johnson
 Bukayo,Saka,3,Bukayo_Saka
 Kayne,Ramsay,2,Kayne_Ramsay
@@ -832,7 +832,7 @@ Ben,Johnson,2,Ben_Johnson
 Demeaco,Duhaney,2,Demeaco_Duhaney
 James,Garner,3,James_Garner
 Tahith,Chong,3,Tahith_Chong
-Matthew,Daly,3,Matthew_Daly
+Matthew,Daly,3,Matty_Daly
 Aaron,Rowe,3,Aaron_Rowe
 Mason,Greenwood,4,Mason_Greenwood
 Harvey,Elliott,3,Harvey_Elliott
