@@ -1,0 +1,499 @@
+,full_name,squad,selected,position,team_code
+0,Sergio_Agüero,Manchester City,1452447.0,4.0,1
+1,Nathan_Aké,Bournemouth,158251.0,2.0,2
+2,Marc_Albrighton,Leicester City,58166.0,3.0,3
+3,Toby_Alderweireld,Tottenham,159975.0,2.0,4
+4,Trent_Alexander-Arnold,Liverpool,787168.0,3.0,5
+5,Alisson,Liverpool,629624.0,1.0,5
+6,Dele_Alli,Tottenham,175864.0,3.0,4
+7,Miguel_Almirón,Newcastle Utd,0.0,3.0,6
+8,Marcos_Alonso,Chelsea,727837.0,2.0,7
+9,Daniel_Amartey,Leicester City,11148.0,3.0,3
+10,Luke_Amos,Tottenham,,,4
+11,Felipe_Anderson,West Ham,183158.0,3.0,8
+12,Florin_Andone,Brighton,4566.0,4.0,9
+13,Michail_Antonio,West Ham,79349.0,3.0,8
+14,Stuart_Armstrong,Southampton,13490.0,3.0,10
+15,Marko_Arnautovic,West Ham,973948.0,3.0,8
+16,Kepa_Arrizabalaga,Chelsea,120895.0,1.0,7
+17,Harry_Arter,Cardiff City,14476.0,3.0,11
+18,Christian_Atsu,Newcastle Utd,9385.0,3.0,6
+19,Pierre-Emerick_Aubameyang,Arsenal,924935.0,4.0,12
+20,Serge_Aurier,Tottenham,49004.0,2.0,4
+21,Charlie_Austin,Southampton,85810.0,4.0,10
+22,Jordan_Ayew,Crystal Palace,23777.0,4.0,13
+23,Floyd_Ayité,Fulham,8882.0,3.0,14
+24,César_Azpilicueta,Chelsea,745918.0,2.0,7
+25,Ryan_Babel,Fulham,0.0,3.0,14
+26,Juninho_Bacuna,Huddersfield,7863.0,3.0,15
+27,Leandro_Bacuna,Cardiff City,0.0,2.0,11
+28,Eric_Bailly,Manchester Utd,133757.0,2.0,16
+29,Leighton_Baines,Everton,84579.0,2.0,17
+30,Fabián_Balbuena,West Ham,16348.0,2.0,8
+31,Leon_Balogun,Brighton,7897.0,2.0,9
+32,Sol_Bamba,Cardiff City,39138.0,2.0,11
+33,Phil_Bardsley,Burnley,10336.0,2.0,18
+34,Ross_Barkley,Chelsea,22315.0,3.0,7
+35,Ashley_Barnes,Burnley,48750.0,4.0,18
+36,Harvey_Barnes,Leicester City,0.0,3.0,3
+37,Antonio_Barreca,Newcastle Utd,0.0,2.0,6
+38,Michy_Batshuayi,Crystal Palace,0.0,4.0,13
+39,Jan_Bednarek,Southampton,264706.0,2.0,10
+40,Asmir_Begovic,Bournemouth,220212.0,1.0,2
+41,Héctor_Bellerín,Arsenal,727046.0,2.0,12
+42,Joe_Bennett,Cardiff City,8863.0,2.0,11
+43,Ryan_Bennett,Wolves,234162.0,2.0,19
+44,Christian_Benteke,Crystal Palace,54689.0,4.0,13
+45,Jóhann_Berg Guðmundsson,Burnley,,,18
+46,Bernard,Everton,20094.0,3.0,17
+47,Bernardo,Brighton,10711.0,2.0,9
+48,Ryan_Bertrand,Southampton,349632.0,2.0,10
+49,Marcus_Bettinelli,Fulham,14241.0,1.0,14
+50,Philip_Billing,Huddersfield,5761.0,3.0,15
+51,Yves_Bissouma,Brighton,2595.0,3.0,9
+52,Willy_Boly,Wolves,94567.0,2.0,19
+53,Léo_Bonatini,Wolves,46942.0,4.0,19
+54,Gaëtan_Bong,Brighton,8038.0,2.0,9
+55,Artur_Boruc,Bournemouth,340702.0,1.0,2
+56,Robbie_Brady,Burnley,1913.0,3.0,18
+57,Miguel_Britos,Watford,4748.0,2.0,20
+58,David_Brooks,Bournemouth,3963.0,3.0,2
+59,Bruno,Brighton,14542.0,2.0,9
+60,Joe_Bryan,Fulham,8061.0,2.0,14
+61,David_Button,Brighton,85325.0,1.0,9
+62,Willy_Caballero,Chelsea,8785.0,1.0,7
+63,Gary_Cahill,Chelsea,65491.0,2.0,7
+64,Tom_Cairney,Fulham,153810.0,3.0,14
+65,Dominic_Calvert-Lewin,Everton,68885.0,4.0,17
+66,Rafael_Camacho,Liverpool,0.0,3.0,5
+67,Víctor_Camarasa,Cardiff City,2384.0,3.0,11
+68,Etienne_Capoue,Watford,14003.0,3.0,20
+69,Andy_Carroll,West Ham,2216.0,4.0,8
+70,Jonny_Castro,Wolves,29970.0,2.0,19
+71,Craig_Cathcart,Watford,4273.0,2.0,20
+72,Ivan_Cavaleiro,Wolves,7490.0,3.0,19
+73,Petr_Čech,Arsenal,70767.0,1.0,12
+74,Nathaniel_Chalobah,Watford,12307.0,3.0,20
+75,Calum_Chambers,Fulham,91508.0,2.0,14
+76,Ben_Chilwell,Leicester City,16126.0,2.0,3
+77,Tahith_Chong,Manchester Utd,0.0,3.0,16
+78,Hamza_Choudhury,Leicester City,5517.0,3.0,3
+79,Andreas_Christensen,Chelsea,61061.0,2.0,7
+80,Cyrus_Christie,Fulham,14289.0,2.0,14
+81,Ibrahima_Cissé,Fulham,0.0,3.0,14
+82,Ciaran_Clark,Newcastle Utd,10582.0,2.0,6
+83,Tom_Cleverley,Watford,494.0,3.0,20
+84,Nathaniel_Clyne,Bournemouth,26690.0,2.0,2
+85,Nathaniel_Clyne,Liverpool,26690.0,2.0,5
+86,Conor_Coady,Wolves,30913.0,2.0,19
+87,Joel_Coleman,Huddersfield,0.0,1.0,15
+88,Seamus_Coleman,Everton,148392.0,2.0,17
+89,Lewis_Cook,Bournemouth,16680.0,3.0,2
+90,Steve_Cook,Bournemouth,59682.0,2.0,2
+91,Jack_Cork,Burnley,59543.0,3.0,18
+92,Hélder_Costa,Wolves,40560.0,3.0,19
+93,Aaron_Cresswell,West Ham,103396.0,2.0,8
+94,Peter_Crouch,Burnley,0.0,4.0,18
+95,Greg_Cunningham,Cardiff City,4968.0,2.0,11
+96,Diogo_Dalot,Manchester Utd,2241.0,2.0,16
+97,Matty_Daly,Huddersfield,0.0,3.0,15
+98,Loïc_Damour,Cardiff City,3308.0,3.0,11
+99,Charlie_Daniels,Bournemouth,834188.0,2.0,2
+100,Danilo,Manchester City,53010.0,2.0,1
+101,Scott_Dann,Crystal Palace,779.0,2.0,13
+102,Matteo_Darmian,Manchester Utd,20155.0,2.0,16
+103,Ben_Davies,Tottenham,428966.0,2.0,4
+104,Tom_Davies,Everton,11634.0,3.0,17
+105,Steven_Davis,Southampton,7799.0,3.0,10
+106,Kevin_De Bruyne,Manchester City,1288634.0,3.0,1
+107,Troy_Deeney,Watford,52178.0,4.0,20
+108,Jermain_Defoe,Bournemouth,42370.0,4.0,2
+109,Steven_Defour,Burnley,757.0,3.0,18
+110,Fabian_Delph,Manchester City,18028.0,3.0,1
+111,Mousa_Dembélé,Tottenham,72326.0,3.0,4
+112,Leander_Dendoncker,Wolves,23562.0,3.0,19
+113,Laurent_Depoitre,Huddersfield,67727.0,4.0,15
+114,Gerard_Deulofeu,Watford,19281.0,3.0,20
+115,Fousseni_Diabaté,Leicester City,3158.0,4.0,3
+116,Adama_Diakhaby,Huddersfield,2723.0,3.0,15
+117,Mohamed_Diamé,Newcastle Utd,5156.0,3.0,6
+118,Grady_Diangana,West Ham,0.0,3.0,8
+119,Eric_Dier,Tottenham,109552.0,3.0,4
+120,Lucas_Digne,Everton,141155.0,2.0,17
+121,Virgil_van Dijk,Liverpool,811455.0,2.0,5
+122,Issa_Diop,West Ham,46623.0,2.0,8
+123,Matt_Doherty,Wolves,59443.0,2.0,19
+124,Abdoulaye_Doucouré,Watford,108189.0,3.0,20
+125,Luke_Dreher,Crystal Palace,0.0,3.0,13
+126,Martin_Dubravka,Newcastle Utd,18497.0,1.0,6
+127,Shane_Duffy,Brighton,153522.0,2.0,9
+128,Demeaco_Duhaney,Huddersfield,0.0,2.0,15
+129,Paul_Dummett,Newcastle Utd,9349.0,2.0,6
+130,Lewis_Dunk,Brighton,152747.0,2.0,9
+131,Erik_Durm,Huddersfield,13149.0,2.0,15
+132,Bruno_Ecuele Manga,Cardiff City,5192.0,2.0,11
+133,Ederson,Manchester City,796937.0,1.0,1
+134,Harvey_Elliott,Fulham,0.0,3.0,14
+135,Mohamed_Elneny,Arsenal,120790.0,3.0,12
+136,Mohamed_Elyounoussi,Southampton,23886.0,3.0,10
+137,Christian_Eriksen,Tottenham,840208.0,3.0,4
+138,Neil_Etheridge,Cardiff City,12072.0,1.0,11
+139,Jonny_Evans,Leicester City,17835.0,2.0,3
+140,Lukasz_Fabianski,West Ham,911117.0,1.0,8
+141,Fabinho,Liverpool,51015.0,3.0,5
+142,Cesc_Fàbregas,Chelsea,67338.0,3.0,7
+143,Fabricio,Fulham,,,14
+144,Marouane_Fellaini,Manchester Utd,28693.0,3.0,16
+145,Kiko_Femenía,Watford,25857.0,2.0,20
+146,Federico_Fernández,Newcastle Utd,10427.0,2.0,6
+147,Fernandinho,Manchester City,328372.0,3.0,1
+148,Roberto_Firmino,Liverpool,1687015.0,3.0,5
+149,Phil_Foden,Manchester City,14777.0,3.0,1
+150,Fraser_Forster,Southampton,65137.0,1.0,10
+151,Ben_Foster,Watford,232427.0,1.0,20
+152,Timothy_Fosu-Mensah,Fulham,37692.0,2.0,14
+153,Juan_Foyth,Tottenham,0.0,2.0,4
+154,Simon_Francis,Bournemouth,22164.0,2.0,2
+155,Ryan_Fraser,Bournemouth,57385.0,3.0,2
+156,Fred,Manchester Utd,232569.0,3.0,16
+157,Ryan_Fredericks,West Ham,32501.0,2.0,8
+158,Christian_Fuchs,Leicester City,46271.0,2.0,3
+159,Manolo_Gabbiadini,Southampton,18085.0,4.0,10
+160,Sam_Gallagher,Southampton,0.0,4.0,10
+161,Idrissa_Gueye,Everton,28400.0,3.0,17
+162,James_Garner,Manchester Utd,0.0,3.0,16
+163,Paulo_Gazzaniga,Tottenham,0.0,1.0,4
+164,David_de Gea,Manchester Utd,0.0,1.0,16
+165,Rachid_Ghezzal,Leicester City,9921.0,3.0,3
+166,Morgan_Gibbs-White,Wolves,20765.0,3.0,19
+167,Ben_Gibson,Burnley,17262.0,2.0,18
+168,Olivier_Giroud,Chelsea,188771.0,4.0,7
+169,André_Gomes,Everton,17237.0,3.0,17
+170,Angel_Gomes,Manchester Utd,0.0,3.0,16
+171,Joe_Gomez,Liverpool,13273.0,2.0,5
+172,Jon_Gorenc Stankovic,Huddersfield,0.0,,15
+173,Dan_Gosling,Bournemouth,5035.0,3.0,2
+174,Karlan_Grant,Huddersfield,0.0,4.0,15
+175,Andre_Gray,Watford,30395.0,4.0,20
+176,Demarai_Gray,Leicester City,44794.0,3.0,3
+177,Mason_Greenwood,Manchester Utd,0.0,4.0,16
+178,Pascal_Groß,Brighton,364302.0,3.0,9
+179,Vicente_Guaita,Crystal Palace,12383.0,1.0,13
+180,Matteo_Guendouzi,Arsenal,53733.0,3.0,12
+181,Ilkay_Gundogan,Manchester City,,3.0,1
+182,Angus_Gunn,Southampton,12989.0,1.0,10
+183,Aron_Gunnarsson,Cardiff City,66660.0,3.0,11
+184,Florent_Hadergjonaj,Huddersfield,4294.0,2.0,15
+185,Ben_Hamer,Huddersfield,124117.0,1.0,15
+186,Kadeem_Harris,Cardiff City,0.0,3.0,11
+187,Joe_Hart,Burnley,195781.0,1.0,18
+188,Isaac_Hayden,Newcastle Utd,11288.0,3.0,6
+189,Eden_Hazard,Chelsea,480326.0,3.0,7
+190,Rhys_Healey,Cardiff City,0.0,4.0,11
+191,Tom_Heaton,Burnley,6229.0,1.0,18
+192,Jordan_Henderson,Liverpool,61150.0,3.0,5
+193,Jeff_Hendrick,Burnley,9008.0,3.0,18
+194,Wayne_Hennessey,Crystal Palace,49531.0,1.0,13
+195,Javier_Hernández,West Ham,118570.0,4.0,8
+196,Ander_Herrera,Manchester Utd,9519.0,3.0,16
+197,Heung-Min_Son,Tottenham,374626.0,3.0,4
+198,Gonzalo_Higuaín,Chelsea,0.0,4.0,7
+199,Wesley_Hoedt,Southampton,19002.0,2.0,10
+200,Jonathan_Hogg,Huddersfield,14503.0,3.0,15
+201,Junior_Hoilett,Cardiff City,20590.0,3.0,11
+202,Rob_Holding,Arsenal,29752.0,2.0,12
+203,José_Holebas,Watford,24697.0,2.0,20
+204,Mason_Holgate,Everton,3574.0,2.0,17
+205,Callum_Hudson-Odoi,Chelsea,119739.0,3.0,7
+206,Will_Hughes,Watford,25044.0,3.0,20
+207,Emerson_Hyndman,Bournemouth,3650.0,3.0,2
+208,Pierre-Emile_Højbjerg,Southampton,23517.0,3.0,10
+209,Jordon_Ibe,Bournemouth,28714.0,3.0,2
+210,Vicente_Iborra,Leicester City,3960.0,3.0,3
+211,Kelechi_Iheanacho,Leicester City,47721.0,4.0,3
+212,Danny_Ings,Southampton,82610.0,4.0,10
+213,Alex_Iwobi,Arsenal,35746.0,3.0,12
+214,José_Izquierdo,Brighton,11081.0,3.0,9
+215,Phil_Jagielka,Everton,100143.0,2.0,17
+216,Alireza_Jahanbakhsh,Brighton,76058.0,3.0,9
+217,Daryl_Janmaat,Watford,24868.0,2.0,20
+218,Vincent_Janssen,Tottenham,0.0,4.0,4
+219,Carl_Jenkinson,Arsenal,0.0,2.0,12
+220,Gabriel_Jesus,Manchester City,121425.0,4.0,1
+221,Raúl_Jiménez,Wolves,129989.0,4.0,19
+222,Stefan_Johansen,Fulham,8305.0,3.0,14
+223,Ben_Johnson,West Ham,0.0,2.0,8
+224,Tyreke_Johnson,Southampton,0.0,3.0,10
+225,Phil_Jones,Manchester Utd,169200.0,2.0,16
+226,Jorginho,Chelsea,396333.0,3.0,7
+227,Joselu,Newcastle Utd,89238.0,4.0,6
+228,Diogo_Jota,Wolves,314441.0,3.0,19
+229,Mathias_Jorgensen,Huddersfield,479775.0,2.0,15
+230,Christian_Kabasele,Watford,34071.0,2.0,20
+231,Elias_Kachunga,Huddersfield,5521.0,3.0,15
+232,Aboubakar_Kamara,Fulham,499362.0,4.0,14
+233,Harry_Kane,Tottenham,1430959.0,4.0,4
+234,N'Golo_Kanté,Chelsea,889970.0,3.0,7
+235,Beram_Kayal,Brighton,5338.0,3.0,9
+236,Michael_Keane,Everton,117954.0,2.0,17
+237,Neeskens_Kebano,Fulham,5634.0,3.0,14
+238,Naby_Keita,Liverpool,232708.0,3.0,5
+239,Martin_Kelly,Crystal Palace,409020.0,2.0,13
+240,Kenedy,Newcastle Utd,115700.0,3.0,6
+241,Jonjoe_Kenny,Everton,11386.0,2.0,17
+242,Max_Kilman,Wolves,0.0,2.0,19
+243,Joshua_King,Bournemouth,380719.0,3.0,2
+244,Anthony_Knockaert,Brighton,23952.0,3.0,9
+245,Sead_Kolasinac,Arsenal,32166.0,2.0,12
+246,Vincent_Kompany,Manchester City,105138.0,2.0,1
+247,Terence_Kongolo,Huddersfield,12335.0,2.0,15
+248,Laurent_Koscielny,Arsenal,6155.0,2.0,12
+249,Cheikhou_Kouyaté,Crystal Palace,27371.0,3.0,13
+250,Mateo_Kovacic,Chelsea,56369.0,3.0,7
+251,Rajiv_van La Parra,Huddersfield,3926.0,3.0,15
+252,Alexandre_Lacazette,Arsenal,200168.0,4.0,12
+253,Adam_Lallana,Liverpool,73838.0,3.0,5
+254,Érik_Lamela,Tottenham,4017.0,,4
+255,Manuel_Lanzini,West Ham,2371.0,3.0,8
+256,Aymeric_Laporte,Manchester City,55175.0,2.0,1
+257,Jamaal_Lascelles,Newcastle Utd,423390.0,2.0,6
+258,Maxime_Le Marchand,Fulham,16146.0,2.0,14
+259,Florian_Lejeune,Newcastle Utd,1440.0,2.0,6
+260,Mario_Lemina,Southampton,9971.0,3.0,10
+261,Aaron_Lennon,Burnley,15138.0,3.0,18
+262,Bernd_Leno,Arsenal,110646.0,1.0,12
+263,Jefferson_Lerma,Bournemouth,15473.0,3.0,2
+264,Stephan_Lichtsteiner,Arsenal,112156.0,2.0,12
+265,Victor_Lindelöf,Manchester Utd,56146.0,2.0,16
+266,Jesse_Lingard,Manchester Utd,283400.0,3.0,16
+267,Fernando_Llorente,Tottenham,15635.0,4.0,4
+268,Hugo_Lloris,Tottenham,380621.0,1.0,4
+269,Jürgen_Locadia,Brighton,5404.0,4.0,9
+270,Ruben_Loftus-Cheek,Chelsea,55849.0,3.0,7
+271,Kevin_Long,Burnley,42014.0,2.0,18
+272,Shane_Long,Southampton,90569.0,4.0,10
+273,Sean_Longstaff,Newcastle Utd,0.0,3.0,6
+274,Ademola_Lookman,Everton,12390.0,3.0,17
+275,Jonas_Lössl,Huddersfield,100431.0,1.0,15
+276,Dejan_Lovren,Liverpool,347393.0,2.0,5
+277,Chris_Löwe,Huddersfield,8906.0,2.0,15
+278,Matthew_Lowton,Burnley,44551.0,2.0,18
+279,David_Luiz,Chelsea,160332.0,2.0,7
+280,Romelu_Lukaku,Manchester Utd,349932.0,4.0,16
+281,James_Maddison,Leicester City,32765.0,3.0,3
+282,Gary_Madine,Cardiff City,51829.0,4.0,11
+283,Harry_Maguire,Leicester City,759622.0,2.0,3
+284,Riyad_Mahrez,Manchester City,244252.0,3.0,1
+285,Ainsley_Maitland-Niles,Arsenal,31526.0,3.0,12
+286,Sadio_Mané,Liverpool,758512.0,3.0,5
+287,Javier_Manquillo,Newcastle Utd,8511.0,2.0,6
+288,Solly_March,Brighton,3712.0,3.0,9
+289,Adrian_Mariappa,Watford,11219.0,2.0,20
+290,Lazar_Markovic,Fulham,0.0,3.0,14
+291,Anthony_Martial,Manchester Utd,46847.0,3.0,16
+292,Adam_Masina,Watford,5629.0,2.0,20
+293,Arthur_Masuaku,West Ham,113838.0,2.0,8
+294,Juan_Mata,Manchester Utd,97791.0,3.0,16
+295,Nemanja_Matic,Manchester Utd,,3.0,16
+296,Joel_Matip,Liverpool,,2.0,5
+297,Konstantinos_Mavropanos,Arsenal,10713.0,2.0,12
+298,Alfie_Mawson,Fulham,15496.0,2.0,14
+299,Isaac_Mbenza,Huddersfield,904.0,3.0,15
+300,James_McArthur,Crystal Palace,85461.0,3.0,13
+301,Alex_McCarthy,Southampton,31997.0,1.0,10
+302,James_McCarthy,Everton,1234.0,3.0,17
+303,Kevin_McDonald,Fulham,20352.0,3.0,14
+304,Dwight_McNeil,Burnley,0.0,4.0,18
+305,Scott_McTominay,Manchester Utd,39595.0,3.0,16
+306,Ben_Mee,Burnley,226034.0,2.0,18
+307,Nathaniel_Mendez-Laing,Cardiff City,3604.0,3.0,11
+308,Benjamin_Mendy,Manchester City,440329.0,2.0,1
+309,Nampalys_Mendy,Leicester City,0.0,3.0,3
+310,Chris_Mepham,Bournemouth,0.0,2.0,2
+311,Max_Meyer,Crystal Palace,41672.0,3.0,13
+312,Luka_Milivojević,Crystal Palace,465750.0,,13
+313,James_Milner,Liverpool,14696.0,3.0,5
+314,Yerry_Mina,Everton,102500.0,2.0,17
+315,Tyrone_Mings,Bournemouth,10308.0,2.0,2
+316,Aleksandar_Mitrović,Fulham,294873.0,,14
+317,Henrikh_Mkhitaryan,Arsenal,644446.0,3.0,12
+318,Nacho_Monreal,Arsenal,44811.0,2.0,12
+319,Martín_Montoya,Brighton,8245.0,2.0,9
+320,Aaron_Mooy,Huddersfield,192110.0,3.0,15
+321,Álvaro_Morata,Chelsea,151388.0,4.0,7
+322,Alberto_Moreno,Liverpool,22078.0,2.0,5
+323,Wes_Morgan,Leicester City,62679.0,2.0,3
+324,Sean_Morrison,Cardiff City,31111.0,2.0,11
+325,Victor_Moses,Chelsea,211948.0,3.0,7
+326,Steve_Mounié,Huddersfield,11803.0,,15
+327,Lucas_Moura,Tottenham,108496.0,3.0,4
+328,Lys_Mousset,Bournemouth,11984.0,4.0,2
+329,João_Moutinho,Wolves,87926.0,3.0,19
+330,Jacob_Murphy,Newcastle Utd,2929.0,3.0,6
+331,Josh_Murphy,Cardiff City,14017.0,3.0,11
+332,Glenn_Murray,Brighton,36707.0,4.0,9
+333,Shkodran_Mustafi,Arsenal,66040.0,2.0,12
+334,Yoshinori_Mutō,Newcastle Utd,7032.0,,6
+335,Georges-Kévin_N'Koudou,Tottenham,997.0,3.0,4
+336,Samir_Nasri,West Ham,0.0,3.0,8
+337,Marc_Navarro,Watford,5864.0,2.0,20
+338,Wilfred_Ndidi,Leicester City,33600.0,3.0,3
+339,Rúben_Neves,Wolves,633569.0,3.0,19
+340,Oumar_Niasse,Cardiff City,46205.0,4.0,11
+341,Oumar_Niasse,Everton,46205.0,4.0,17
+342,Eddie_Nketiah,Arsenal,0.0,4.0,12
+343,Mark_Noble,West Ham,23453.0,3.0,8
+344,Håvard_Nordtveit,Fulham,0.0,3.0,14
+345,Will_Norris,Wolves,117293.0,1.0,19
+346,Michael_Obafemi,Southampton,0.0,4.0,10
+347,Pedro_Obiang,West Ham,63157.0,3.0,8
+348,Denis_Odoi,Fulham,12353.0,2.0,14
+349,Angelo_Ogbonna,West Ham,47740.0,2.0,8
+350,Stefano_Okaka,Watford,1583.0,4.0,20
+351,Shinji_Okazaki,Leicester City,77976.0,4.0,3
+352,Divock_Origi,Liverpool,0.0,4.0,5
+353,Nicolás_Otamendi,Manchester City,405078.0,2.0,1
+354,Alex_Oxlade-Chamberlain,Liverpool,2117.0,3.0,5
+355,Mesut_Özil,Arsenal,236460.0,3.0,12
+356,Emerson_Palmieri,Chelsea,9242.0,2.0,7
+357,Sokratis_Papastathopoulos,Arsenal,122791.0,2.0,12
+358,Callum_Paterson,Cardiff City,8529.0,3.0,11
+359,Rui_Patrício,Wolves,301531.0,1.0,19
+360,Pedro_Rodriguez,Chelsea,96685.0,,7
+361,Lee_Peltier,Cardiff City,196285.0,2.0,11
+362,Andreas_Pereira,Manchester Utd,30210.0,3.0,16
+363,Ricardo_Pereira,Leicester City,58068.0,,3
+364,Roberto_Pereyra,Watford,22304.0,3.0,20
+365,Ayoze_Pérez,Newcastle Utd,146474.0,4.0,6
+366,Lucas_Pérez,West Ham,11442.0,4.0,8
+367,Jordan_Pickford,Everton,985344.0,1.0,17
+368,Paul_Pogba,Manchester Utd,354360.0,3.0,16
+369,Alex_Pritchard,Huddersfield,3968.0,3.0,15
+370,Sebastian_Prödl,Watford,9721.0,2.0,20
+371,Davy_Pröpper,Brighton,8887.0,3.0,9
+372,Jason_Puncheon,Crystal Palace,40154.0,3.0,13
+373,Jason_Puncheon,Huddersfield,40154.0,3.0,15
+374,Collin_Quaner,Huddersfield,281907.0,4.0,15
+375,Domingos_Quina,Watford,3648.0,3.0,20
+376,Joe_Ralls,Cardiff City,17494.0,3.0,11
+377,Aaron_Ramsey,Arsenal,60423.0,3.0,12
+378,Kayne_Ramsay,Southampton,0.0,2.0,10
+379,Marcus_Rashford,Manchester Utd,515309.0,4.0,16
+380,Tim_Ream,Fulham,22808.0,2.0,14
+381,Nathan_Redmond,Southampton,24948.0,3.0,10
+382,Bobby_Reid,Cardiff City,33401.0,4.0,11
+383,Declan_Rice,West Ham,16061.0,3.0,8
+384,Jazz_Richards,Cardiff City,47860.0,2.0,11
+385,Richarlison,Everton,872082.0,3.0,17
+386,Diego_Rico,Bournemouth,1514.0,2.0,2
+387,Sergio_Rico,Fulham,11256.0,1.0,14
+388,Matt_Ritchie,Newcastle Utd,46207.0,3.0,6
+389,Andrew_Robertson,Liverpool,720845.0,2.0,5
+390,Marcos_Rojo,Manchester Utd,5350.0,2.0,16
+391,Oriol_Romeu,Southampton,140250.0,3.0,10
+392,Salomón_Rondón,Newcastle Utd,73303.0,4.0,6
+393,Danny_Rose,Tottenham,69060.0,2.0,4
+394,Aaron_Rowe,Huddersfield,0.0,3.0,15
+395,John_Ruddy,Wolves,24845.0,1.0,19
+396,Antonio_Rüdiger,Chelsea,135804.0,2.0,7
+397,Mathew_Ryan,Brighton,257273.0,1.0,9
+398,Abdelhamid_Sabiri,Huddersfield,3471.0,3.0,15
+399,Romain_Saïss,Wolves,13736.0,2.0,19
+400,Bukayo_Saka,Arsenal,0.0,3.0,12
+401,Mamadou_Sakho,Crystal Palace,67303.0,2.0,13
+402,Bakary_Sako,Crystal Palace,1455.0,3.0,13
+403,Mohamed_Salah,Liverpool,2478960.0,3.0,5
+404,Alexis_Sánchez,Manchester Utd,474589.0,3.0,16
+405,Carlos_Sánchez,West Ham,15025.0,3.0,8
+406,Davinson_Sánchez,Tottenham,122431.0,2.0,4
+407,Leroy_Sané,Manchester City,663136.0,3.0,1
+408,Fabian_Schär,Newcastle Utd,17090.0,2.0,6
+409,Christopher_Schindler,Huddersfield,164951.0,2.0,15
+410,Jeffrey_Schlupp,Crystal Palace,29820.0,2.0,13
+411,Kasper_Schmeichel,Leicester City,230133.0,1.0,3
+412,Morgan_Schneiderlin,Everton,115922.0,3.0,17
+413,André_Schürrle,Fulham,316359.0,3.0,14
+414,Ken_Sema,Watford,5736.0,3.0,20
+415,Jean_Seri,Fulham,95248.0,3.0,14
+416,Ryan_Sessegnon,Fulham,472564.0,3.0,14
+417,Xherdan_Shaqiri,Liverpool,360763.0,3.0,5
+418,Luke_Shaw,Manchester Utd,162866.0,2.0,16
+419,Jonjo_Shelvey,Newcastle Utd,51885.0,3.0,6
+420,Gylfi_Sigurdsson,Everton,106177.0,3.0,17
+421,Adrien_Silva,Leicester City,10282.0,3.0,3
+422,Bernardo_Silva,Manchester City,312286.0,3.0,1
+423,David_Silva,Manchester City,234240.0,3.0,1
+424,Xande_Silva,West Ham,0.0,4.0,8
+425,Danny_Simpson,Leicester City,20221.0,2.0,3
+426,Jack_Simpson,Bournemouth,257252.0,2.0,2
+427,Josh_Sims,Southampton,4891.0,3.0,10
+428,Moussa_Sissoko,Tottenham,2814.0,3.0,4
+429,Oliver_Skipp,Tottenham,0.0,3.0,4
+430,Callum_Slattery,Southampton,0.0,3.0,10
+431,Chris_Smalling,Manchester Utd,165459.0,2.0,16
+432,Adam_Smith,Bournemouth,21187.0,2.0,2
+433,Tommy_Smith,Huddersfield,5090.0,2.0,15
+434,Robert_Snodgrass,West Ham,8221.0,3.0,8
+435,Cédric_Soares,Southampton,398975.0,2.0,10
+436,Ramadan_Sobhi,Huddersfield,15146.0,3.0,15
+437,Dominic_Solanke,Bournemouth,17914.0,4.0,2
+438,Pape_Souaré,Crystal Palace,6259.0,2.0,13
+439,Caglar_Soyuncu,Leicester City,0.0,2.0,3
+440,Julian_Speroni,Crystal Palace,727239.0,1.0,13
+441,Junior_Stanislas,Bournemouth,2359.0,3.0,2
+442,Dale_Stephens,Brighton,549320.0,3.0,9
+443,Jack_Stephens,Southampton,10138.0,2.0,10
+444,Raheem_Sterling,Manchester City,95478.0,3.0,1
+445,John_Stones,Manchester City,415001.0,2.0,1
+446,Daniel_Sturridge,Liverpool,47395.0,4.0,5
+447,Denis_Suárez,Arsenal,0.0,3.0,12
+448,Isaac_Success,Watford,0.0,3.0,20
+449,Sung-yueng_Ki,Newcastle Utd,12763.0,3.0,6
+450,Andrew_Surman,Bournemouth,17574.0,3.0,2
+451,Sam_Surridge,Bournemouth,0.0,4.0,2
+452,Alexander_Sørloth,Crystal Palace,14555.0,4.0,13
+453,Matt_Targett,Southampton,6036.0,2.0,10
+454,James_Tarkowski,Burnley,461762.0,2.0,18
+455,Charlie_Taylor,Burnley,11525.0,2.0,18
+456,Youri_Tielemans,Leicester City,0.0,3.0,3
+457,James_Tomkins,Crystal Palace,428025.0,2.0,13
+458,Lucas_Torreira,Arsenal,90529.0,3.0,12
+459,Cenk_Tosun,Everton,302582.0,4.0,17
+460,Andros_Townsend,Crystal Palace,115533.0,3.0,13
+461,Adama_Traoré,Wolves,34187.0,3.0,19
+462,Mark_Travers,Bournemouth,0.0,1.0,2
+463,Kieran_Trippier,Tottenham,1217102.0,2.0,4
+464,Antonio_Valencia,Manchester Utd,41761.0,2.0,16
+465,Yan_Valery,Southampton,0.0,2.0,10
+466,Jamie_Vardy,Leicester City,242752.0,4.0,3
+467,Jan_Vertonghen,Tottenham,414376.0,2.0,4
+468,Jannik_Vestergaard,Southampton,29273.0,2.0,10
+469,Luciano_Vietto,Fulham,21756.0,4.0,14
+470,Rúben_Vinagre,Wolves,7145.0,2.0,19
+471,Sam_Vokes,Burnley,53452.0,4.0,18
+472,Michel_Vorm,Tottenham,5427.0,1.0,4
+473,Matej_Vydra,Burnley,7173.0,4.0,18
+474,Theo_Walcott,Everton,93127.0,3.0,17
+475,Kyle_Walker,Manchester City,545462.0,2.0,1
+476,Kyle_Walker-Peters,Tottenham,22811.0,2.0,4
+477,Aaron_Wan-Bissaka,Crystal Palace,652304.0,3.0,13
+478,Victor_Wanyama,Tottenham,2567.0,3.0,4
+479,Danny_Ward,Cardiff City,15437.0,3.0,11
+480,Joel_Ward,Crystal Palace,20760.0,2.0,13
+481,Stephen_Ward,Burnley,120639.0,2.0,18
+482,James_Ward-Prowse,Southampton,27127.0,3.0,10
+483,Danny_Welbeck,Arsenal,28663.0,4.0,12
+484,Ashley_Westwood,Burnley,9023.0,3.0,18
+485,Connor_Wickham,Crystal Palace,9466.0,4.0,13
+486,Georginio_Wijnaldum,Liverpool,32164.0,3.0,5
+487,Danny_Williams,Huddersfield,562.0,3.0,15
+488,Willian,Chelsea,411692.0,3.0,7
+489,Joe_Willock,Arsenal,0.0,3.0,12
+490,Ben_Wilmot,Watford,0.0,2.0,20
+491,Jack_Wilshere,West Ham,239569.0,3.0,8
+492,Callum_Wilson,Bournemouth,147186.0,4.0,2
+493,Harry_Winks,Tottenham,646.0,3.0,4
+494,Chris_Wood,Burnley,24309.0,4.0,18
+495,Granit_Xhaka,Arsenal,220405.0,3.0,12
+496,Andriy_Yarmolenko,West Ham,48425.0,3.0,8
+497,DeAndre_Yedlin,Newcastle Utd,81314.0,2.0,6
