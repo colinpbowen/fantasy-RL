@@ -1,0 +1,24 @@
+Final Project Notes
+
+
+Viska: Scaling Deep RL on landmark localization (medical imaging)
+
+- 2D Deep Q Network
+- Anatomical Localization 
+- +1 for moving the square to the correct area, -1 for moving it to the incorrect area.
+- Target network and current network found by minimizing the Huber Loss
+- TD and Q learning lead to experience wasting
+- Replay buffer. Store each experience in a tuple and then do uniform sampling 
+- Correlated actions
+- Improve experience replay: use importance sampling. Lower frequency events should be valued higher.
+- Count sketch algorithm 
+
+
+Samarth: Automated Lane Changing with Deep Q-Learning
+
+- Environment: PyGame Environment
+- Actions: go left, go right, speed up, slow down
+- good visual demonstrations
+
+Stewart: Learning to Optimize
+
