@@ -22,3 +22,5 @@ Samarth: Automated Lane Changing with Deep Q-Learning
 
 Stewart: Learning to Optimize
 
+- nonlinear optimization, not getting stuck in saddle points and dealing with other oscillations.
+- general optimization framework looks a lot like an MDP

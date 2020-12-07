@@ -7,7 +7,8 @@ import scipy
 #data_frame = pd.read_csv("FPLPlayerData.txt",
 # sep = "\t")
 #data_frame = pd.read_csv("FPLPlayerData2.csv")
-data_frame = pd.read_csv("~/fantasy-RL/player_initial_values_1819_FINAL.csv")
+#data_frame = pd.read_csv("~/fantasy-RL/player_initial_values_1819_FINAL.csv")
+data_frame = pd.read_csv("~/fantasy-RL/player_initial_values_1920.csv")
 #minutes = data_frame['minutes']
 #data_frame = data_frame[minutes > 900]
 num_players = len(data_frame)
@@ -132,5 +133,6 @@ for i in range(len(var)):
 print('Obj:', m.Objval)
 
 var_series = pd.Series(variables)
-var_series.to_csv('~/fantasy-RL/optimal_starting_team_1819.csv')
+#var_series.to_csv('~/fantasy-RL/optimal_starting_team_1819.csv')
+var_series.to_csv('~/fantasy-RL/optimal_starting_team_1920.csv')
 
