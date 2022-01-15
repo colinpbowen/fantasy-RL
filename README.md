@@ -1,10 +1,4 @@
 # fantasy-RL
-Fantasy pRemier League reinforcement learning. 
+Fantasy Premier League reinforcement learning. For their final class project in Reinforcement Learning, Bhawramaett and Colin recreated several classical reinforcement learning algorithms (such as Sarsa and Q-Learning) to optimize the performance of a fantasy Premier League team over the course of a season.
 
-
-To-do List:
-
-Colin: 
-- Specify prior distributions for player point-scoring actions.
-- Think about transition model.
-- Format the data in a way that we like.
+The problem was inspired by Colin's use of mixed-integer programming to select his initial team, but he lacked a good selection criterion to optimize for. The use of reinforcement learning made sense as the selection of the team over the season is a type of Markov Decision Process. However, the vast size of the state space (38 league games and over 500 players to choose from per week) made constructing the state-action space challenging, so we did not see significant improvement in the performance over the season. Creating a regression for expected points and optimizing for that may be a more straightforward and still positive approach. 
